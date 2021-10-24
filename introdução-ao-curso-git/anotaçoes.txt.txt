@@ -1,0 +1,3 @@
+Sobre o curso de git e github.
+
+Consegui entender a importancia dessa tecnologia para o versionamento do condigo.
